@@ -1,3 +1,4 @@
+<img width="1983" height="793" alt="fouad-salehi" src="https://github.com/user-attachments/assets/f4554c1f-92df-4e2c-81ae-a0cb3484da8c" />
 # Hi, I'm Fouad Salehi 👋
 Software Engineer specializing in **Web Development, Artificial Intelligence, and Computer Vision**.
 
