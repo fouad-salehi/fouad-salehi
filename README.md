@@ -9,6 +9,6 @@
 </p>
 
 ## Currently Learning
-Algorithms • Artificial Intelligence • Software Engineering
+Algorithms • AI • Browser Technologies • Software Architecture
 
-> Always learning, building, and improving.
+> Learning by building, experimenting, and understanding how things work under the hood.
