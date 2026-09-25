@@ -5,7 +5,7 @@
 
 ## Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,php,html,css,jquery,nodejs,tensorflow,mysql,firebase,git,ubuntu" height="35" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,mysql,php,nodejs,jquery,python,tensorflow,firebase,ubuntu" height="35" />
 </p>
 
 ## Currently Learning
