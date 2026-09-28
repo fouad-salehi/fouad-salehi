@@ -12,3 +12,9 @@
 Algorithms • AI & Computer Vision • Browser Technologies • Software Architecture
 
 > Building developer tools and web solutions, experimenting with AI, and digging into how things work under the hood — from logarithmic loop complexity to real-time object detection.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fouad-salehi/fouad-salehi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fouad-salehi/fouad-salehi/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/fouad-salehi/fouad-salehi/output/pacman-contribution-graph.svg">
+</picture>
