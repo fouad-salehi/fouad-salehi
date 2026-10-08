@@ -16,6 +16,9 @@ jobs:
       contents: write
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
@@ -28,3 +31,43 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update contribution count in README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import os, re, json, urllib.request
+          user = os.environ.get("GITHUB_REPOSITORY_OWNER") or os.environ.get("GITHUB_REPOSITORY", "/").split("/")[0]
+          token = os.environ.get("GITHUB_TOKEN")
+          query = """
+          query($login: String!) {
+            user(login: $login) {
+              contributionsCollection {
+                contributionCalendar {
+                  totalContributions
+                }
+              }
+            }
+          }
+          """
+          req = urllib.request.Request(
+              "https://api.github.com/graphql",
+              data=json.dumps({"query": query, "variables": {"login": user}}).encode(),
+              headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
+          )
+          with urllib.request.urlopen(req) as r:
+              total = json.load(r)["data"]["user"]["contributionsCollection"]["contributionCalendar"]["totalContributions"]
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+          content = re.sub(r"\d+(?=\s+contributions in the last year)", str(total), content)
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(content)
+
+      - name: Commit and push README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update contribution count"
+          git push
