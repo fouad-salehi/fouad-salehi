@@ -1,4 +1,4 @@
-<img width="1983" height="793" alt="fouad-salehi" src="https://github.com/user-attachments/assets/5c42b9dd-d708-493b-b24d-b9d71f2af4cd" />
+<img width="1983" height="793" alt="fouad-salehi" src="https://github.com/user-attachments/assets/7edf1b56-6a45-46cb-a2bb-f04bc7f569d8" />
 
 # Hi, I'm Fouad Salehi 👋
 > **Software Engineer crafting developer tools, browser technologies, and AI-powered web applications — from low-level algorithms to computer vision.**
