@@ -9,20 +9,22 @@
 </p>
 
 ## Tech Stack
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" style="border-radius: 50%; margin: 4px;" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" style="border-radius: 50%; margin: 4px;" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" style="border-radius: 50%; margin: 4px;" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" style="border-radius: 50%; margin: 4px;" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" style="border-radius: 50%; margin: 4px;" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" style="border-radius: 50%; margin: 4px;" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" style="border-radius: 50%; margin: 4px;" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="40" style="border-radius: 50%; margin: 4px;" alt="jQuery" />
+  <img src="https://skillicons.dev/icons?i=npm" height="40" style="border-radius: 50%; margin: 4px;" alt="npm" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" style="border-radius: 50%; margin: 4px;" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" style="border-radius: 50%; margin: 4px;" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" style="border-radius: 50%; margin: 4px;" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" style="border-radius: 50%; margin: 4px;" alt="Ubuntu" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" style="border-radius: 50%; margin: 4px;" alt="Git" />
+</p>
 
 ## Activity
 **440 contributions in the last year**
