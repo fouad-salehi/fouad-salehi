@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Activity
-**391 contributions in the last year**
+**440 contributions in the last year**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fouad-salehi/fouad-salehi/output/pacman-contribution-graph-dark.svg">
