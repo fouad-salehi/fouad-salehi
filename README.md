@@ -2,8 +2,8 @@
 **Software Engineer crafting developer tools, browser technologies, and AI-powered web applications — from low-level algorithms to computer vision.**
 
 <p style="text-align: left; padding: 24px 12px; margin: 0;">
-  <a href="https://instagram.com/fouad_salehi" style="text-decoration: none !important; border: none !important;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="vertical-align: middle;"></a>
-  <a href="https://t.me/fouad_salehi" style="text-decoration: none !important; border: none !important;"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="vertical-align: middle;"></a>
+  <a href="https://instagram.com/fouad_salehi" style="text-decoration: none !important; border: none !important;"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="vertical-align: middle;"></a>
+  <a href="https://t.me/fouad_salehi" style="text-decoration: none !important; border: none !important;"><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="vertical-align: middle;"></a>
 </p>
 
 ## Activity
