@@ -6,6 +6,7 @@
   <a href="https://t.me/fouad_salehi" style="text-decoration: none !important; border: none !important;"><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="vertical-align: middle;"></a>
 </p>
 
+<!--
 ## Activity
 **529 contributions in the last year**
 
@@ -14,3 +15,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fouad-salehi/fouad-salehi/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/fouad-salehi/fouad-salehi/output/pacman-contribution-graph.svg">
 </picture>
+-->
